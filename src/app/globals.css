@@ -1,0 +1,105 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Karma TV brand tokens — see CLAUDE.md Design System */
+  --color-brand-saffron: #c9a84c;
+  --color-brand-maroon: #5b1a2a;
+  --color-brand-maroon-deep: #3d0f1c;
+  --color-brand-lotus: #d4728c;
+  --color-brand-plum: #1a0a14;
+
+  --color-surface-parchment: #fdf8f0;
+  --color-surface-cream: #faf5eb;
+  --color-surface-white: #ffffff;
+
+  --color-text-primary: #2d2226;
+  --color-text-secondary: #6b5e5a;
+  --color-text-tertiary: #8b7e7a;
+  --color-text-inverse: #f5f0e8;
+
+  --color-semantic-live: #e63946;
+  --color-semantic-success: #2a9d5c;
+  --color-semantic-whatsapp: #25d366;
+
+  --font-display: var(--font-playfair-display);
+  --font-sinhala: var(--font-noto-serif-sinhala);
+  --font-body: var(--font-inter);
+  --font-body-si: var(--font-noto-sans-sinhala);
+  --font-sans: var(--font-body);
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+}
+
+:root {
+  --background: var(--color-surface-parchment);
+  --foreground: var(--color-text-primary);
+  --card: var(--color-surface-white);
+  --card-foreground: var(--color-text-primary);
+  --popover: var(--color-surface-white);
+  --popover-foreground: var(--color-text-primary);
+  --primary: var(--color-brand-maroon);
+  --primary-foreground: var(--color-text-inverse);
+  --secondary: var(--color-brand-saffron);
+  --secondary-foreground: var(--color-text-primary);
+  --muted: var(--color-surface-cream);
+  --muted-foreground: var(--color-text-secondary);
+  --accent: var(--color-brand-lotus);
+  --accent-foreground: var(--color-text-primary);
+  --destructive: var(--color-semantic-live);
+  --border: color-mix(in oklab, var(--color-brand-maroon) 12%, transparent);
+  --input: color-mix(in oklab, var(--color-brand-maroon) 16%, transparent);
+  --ring: var(--color-brand-saffron);
+  --radius: 0.75rem;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-body;
+  }
+}
+
+/* Signature "Lotus Glow" gradient — hero overlay, dividers, LIVE badge glow */
+.lotus-glow {
+  background: linear-gradient(135deg, #5b1a2a 0%, #d4728c 50%, #c9a84c 100%);
+}
+
+@keyframes live-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}

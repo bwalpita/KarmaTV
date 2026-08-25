@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "home": "Home",
+    "live": "Live TV",
+    "programs": "Programs",
+    "videos": "Videos",
+    "schedule": "Schedule",
+    "about": "About",
+    "contact": "Contact",
+    "donate": "Donate",
+    "searchPlaceholder": "Search..."
+  },
+  "hero": {
+    "tagline": "Karma TV",
+    "subtitle": "Enlightening Lives Through the Wisdom of Buddha Dhamma",
+    "description": "Dharma Sermons, Health Counselling, Yoga, Ayurveda & Holistic Wellness — PEO TV Channel 113",
+    "watchLive": "Watch Live",
+    "viewSchedule": "View Schedule"
+  },
+  "nowPlaying": {
+    "nowOnAir": "Now On Air",
+    "upNext": "Up Next",
+    "minutesLeft": "minutes remaining"
+  },
+  "home": {
+    "latestVideosTitle": "Latest Videos",
+    "latestVideosSubtitle": "Latest uploads from our YouTube channel",
+    "viewAllVideos": "View All Videos",
+    "todayScheduleTitle": "Today's Schedule",
+    "todayScheduleSubtitle": "Today's complete program lineup",
+    "viewFullSchedule": "Full Schedule",
+    "ourProgramsTitle": "Our Programs",
+    "ourProgramsSubtitle": "Special programs on Dharma, health and wellness",
+    "viewAllPrograms": "View All Programs",
+    "donationTitle": "Dharma Dana Fund",
+    "donationSubtitle": "Support Karma TV's mission of spreading the Dhamma",
+    "donateNow": "Donate Now",
+    "peoTvBadge": "PEO TV Channel 113",
+    "connectWithUs": "Connect With Us"
+  },
+  "live": {
+    "title": "Live Broadcast",
+    "subtitle": "Watch Karma TV Live",
+    "notLiveTitle": "Not Currently Live",
+    "notLiveDescription": "Please check back later. In the meantime, watch our latest videos.",
+    "nextLiveAt": "Next Live Broadcast",
+    "todayRemaining": "Remaining Programs Today",
+    "watchOnYouTube": "Watch on YouTube"
+  },
+  "videos": {
+    "title": "Video Library",
+    "subtitle": "All Karma TV videos in one place",
+    "filterAll": "All",
+    "filterDhamma": "Dharma Sermons",
+    "filterWellness": "Wellness",
+    "filterAyurveda": "Ayurveda",
+    "filterYoga": "Yoga",
+    "filterTalkShows": "Talk Shows",
+    "filterSpecial": "Special",
+    "noVideos": "No videos found",
+    "loadMore": "Load More",
+    "views": "views",
+    "publishedAgo": "ago"
+  },
+  "videoDetail": {
+    "shareTitle": "Share",
+    "shareWhatsApp": "Share on WhatsApp",
+    "shareFacebook": "Share on Facebook",
+    "copyLink": "Copy Link",
+    "linkCopied": "Link copied!",
+    "relatedVideos": "Related Videos",
+    "watchOnYouTube": "Watch on YouTube"
+  },
+  "schedule": {
+    "title": "Weekly Schedule",
+    "subtitle": "Karma TV's complete weekly program schedule",
+    "today": "Today",
+    "nowPlaying": "Now Playing",
+    "repeat": "Repeat",
+    "live": "Live",
+    "noPrograms": "No programs scheduled for this day",
+    "days": {
+      "sunday": "Sunday",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday"
+    }
+  },
+  "programs": {
+    "title": "Our Programs",
+    "subtitle": "Diverse programs on Dharma, health and holistic wellness",
+    "scheduleLabel": "Schedule",
+    "episodesLabel": "Episodes"
+  },
+  "about": {
+    "intro": {
+      "heading": "About Karma TV",
+      "body": "Karma TV (කර්ම රූපවාහිනී) is a Sri Lankan television channel dedicated to Buddhist teachings and holistic wellness. Broadcasting on SLT PEO TV Channel 113, Karma TV brings viewers a comprehensive range of programs covering Buddha Dhamma, health counselling, yoga, Ayurveda, Feng Shui and Yantra sciences."
+    },
+    "mission": {
+      "heading": "Our Mission",
+      "body": "Our core mission is to spread the noble teachings of the Buddha through modern technology and preserve Sri Lanka's traditional wisdom heritage. Through Dharma sermons, meditation guidance, health counselling and holistic wellness programs, we aim to enlighten and enrich the lives of our viewers."
+    },
+    "peoTv": {
+      "heading": "PEO TV Channel 113",
+      "body": "Karma TV broadcasts as Channel 113 on SLT's PEO TV IPTV platform. PEO TV subscribers can tune into Karma TV at any time to access our full range of programming."
+    },
+    "operator": {
+      "heading": "Operated By",
+      "companyName": "Karma Television (Pvt) Ltd",
+      "address": "No. 68/214, Kamathgodella Road, Habarakada, Homagama, Sri Lanka",
+      "phone": "Phone: 070 411 3113 / 011 275 5575"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Send us your thoughts, suggestions or inquiries",
+    "formName": "Your Name",
+    "formEmail": "Email Address",
+    "formPhone": "Phone Number",
+    "formMessage": "Your Message",
+    "formSubmit": "Send Message",
+    "formSuccess": "Your message has been sent successfully. Thank you!",
+    "orWhatsApp": "Or chat with us on WhatsApp",
+    "whatsAppMessage": "Hello! I'd like to inquire about Karma TV.",
+    "addressTitle": "Address",
+    "address": "No. 68/214, Kamathgodella Road, Habarakada, Homagama, Sri Lanka",
+    "phoneTitle": "Phone",
+    "phone1": "070 411 3113",
+    "phone2": "011 275 5575",
+    "emailTitle": "Email",
+    "email": "info@karmatv.lk",
+    "hoursTitle": "Office Hours",
+    "hours": "Monday - Friday: 9:00 AM - 5:00 PM"
+  },
+  "donate": {
+    "heading": "Dharma Dana Fund",
+    "quotePali": "Sabbha Dānam Dhamma Dānam Jināti",
+    "quoteTranslation": "The gift of Dhamma excels all gifts.",
+    "intro": "Your generous contribution helps Karma TV continue its mission of spreading the Buddha's noble teachings through modern media. Every donation directly supports the production and broadcast of Dharma content that reaches thousands of viewers.",
+    "waysToContribute": "You can contribute through:",
+    "bankTransfer": {
+      "heading": "Bank Transfer",
+      "accountNameLabel": "Account Name",
+      "accountName": "Karma Television (Pvt) Ltd",
+      "bankLabel": "Bank",
+      "bankPlaceholder": "[Bank Name]",
+      "branchLabel": "Branch",
+      "branch": "Homagama",
+      "accountNumberLabel": "Account Number",
+      "accountNumberPlaceholder": "[Account Number]"
+    },
+    "acknowledgement": "We will acknowledge your donation upon receipt.",
+    "moreInfo": "For more information: 070 411 3113",
+    "thanks": "Sādhu! Sādhu!! Sādhu!!! for your generous contribution."
+  },
+  "footer": {
+    "tagline": "Only the Best",
+    "description": "Sri Lanka's Buddhist & Holistic Wellness Television Channel",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "followUs": "Follow Us",
+    "peoTvChannel": "PEO TV Channel 113",
+    "copyright": "© 2026 Karma Television (Pvt) Ltd. All rights reserved.",
+    "operatedBy": "Operated by Karma Television (Pvt) Ltd",
+    "address": "No. 68/214, Kamathgodella Road, Habarakada, Homagama"
+  },
+  "whatsapp": {
+    "chatLabel": "Chat with us",
+    "prefilledMessage": "Ayubowan! I'd like to know more about Karma TV."
+  },
+  "common": {
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "backToHome": "Back to Home",
+    "shareOn": "Share on",
+    "copyLink": "Copy Link",
+    "linkCopied": "Copied!",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "tryAgain": "Try Again",
+    "pageNotFound": "Page Not Found",
+    "pageNotFoundDesc": "The page you're looking for doesn't exist",
+    "goHome": "Go to Home",
+    "daysAgo": "days ago",
+    "hoursAgo": "hours ago",
+    "minutesAgo": "minutes ago",
+    "justNow": "Just now"
+  },
+  "metadata": {
+    "home": {
+      "title": "Karma TV — Buddhist & Wellness Channel | PEO TV 113",
+      "description": "Dharma Sermons, Ayurveda, Yoga, Health Counselling — PEO TV Channel 113. Watch Live."
+    },
+    "live": {
+      "title": "Live TV — Karma TV",
+      "description": "Watch Karma TV live online. PEO TV Channel 113."
+    },
+    "videos": {
+      "title": "Videos — Karma TV",
+      "description": "Watch the latest videos and Dharma sermons from Karma TV."
+    },
+    "schedule": {
+      "title": "Schedule — Karma TV",
+      "description": "Karma TV weekly program schedule."
+    },
+    "programs": {
+      "title": "Programs — Karma TV",
+      "description": "Programs including Dharma Sermons, Ayurveda, Yoga, Feng Shui and more."
+    },
+    "about": {
+      "title": "About — Karma TV",
+      "description": "About Karma TV and our mission."
+    },
+    "contact": {
+      "title": "Contact — Karma TV",
+      "description": "Get in touch with Karma TV."
+    },
+    "donate": {
+      "title": "Donate — Karma TV",
+      "description": "Support Karma TV's Dhamma mission."
+    }
+  }
+}
